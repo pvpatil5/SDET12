@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="532" started-at="2021-04-07T11:42:04Z" finished-at="2021-04-07T11:42:04Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="532" started-at="2021-04-07T11:42:04Z" finished-at="2021-04-07T11:42:04Z">
+      <class name="sdet12.Data_Provider1">
+        <test-method status="PASS" signature="testcity1(java.lang.String, java.lang.String)[pri:0, instance:sdet12.Data_Provider1@2d928643]" name="testcity1" duration-ms="99" started-at="2021-04-07T11:42:04Z" data-provider="getdata" finished-at="2021-04-07T11:42:04Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[BOM]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[PNQ]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcity1 -->
+        <test-method status="PASS" signature="testcity1(java.lang.String, java.lang.String)[pri:0, instance:sdet12.Data_Provider1@2d928643]" name="testcity1" duration-ms="14" started-at="2021-04-07T11:42:04Z" data-provider="getdata" finished-at="2021-04-07T11:42:04Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[DEL]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[BOM]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcity1 -->
+        <test-method status="PASS" signature="testcity1(java.lang.String, java.lang.String)[pri:0, instance:sdet12.Data_Provider1@2d928643]" name="testcity1" duration-ms="15" started-at="2021-04-07T11:42:04Z" data-provider="getdata" finished-at="2021-04-07T11:42:04Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[JFK]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[BOM]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcity1 -->
+        <test-method status="PASS" signature="testcity1(java.lang.String, java.lang.String)[pri:0, instance:sdet12.Data_Provider1@2d928643]" name="testcity1" duration-ms="17" started-at="2021-04-07T11:42:04Z" data-provider="getdata" finished-at="2021-04-07T11:42:04Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[NYC]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[DEL]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcity1 -->
+        <test-method status="PASS" signature="testcity1(java.lang.String, java.lang.String)[pri:0, instance:sdet12.Data_Provider1@2d928643]" name="testcity1" duration-ms="17" started-at="2021-04-07T11:42:04Z" data-provider="getdata" finished-at="2021-04-07T11:42:04Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[BLR]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[DEL]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcity1 -->
+      </class> <!-- sdet12.Data_Provider1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
